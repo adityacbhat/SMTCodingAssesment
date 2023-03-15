@@ -1,0 +1,12 @@
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Sample-Test1\Debug\Sample-Test1.vcxproj.CopyComplete
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Sample-Test1\Debug\Sample-Test1.exe
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Sample-Test1\Debug\gtest.pdb
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Sample-Test1\Debug\gtest_main.pdb
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Tosend\UnitTests\Debug\Sample-Test1.vcxproj.CopyComplete
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Tosend\UnitTests\Debug\Sample-Test1.exe
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Tosend\UnitTests\Debug\gtest.pdb
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Tosend\UnitTests\Debug\gtest_main.pdb
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Tosend\Task1\UnitTests\Debug\Sample-Test1.vcxproj.CopyComplete
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Tosend\Task1\UnitTests\Debug\Sample-Test1.exe
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Tosend\Task1\UnitTests\Debug\gtest.pdb
+C:\Users\Aditya\Documents\Aditya\C++\ConsoleApplication1\Tosend\Task1\UnitTests\Debug\gtest_main.pdb
